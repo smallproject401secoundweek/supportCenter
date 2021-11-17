@@ -10,7 +10,7 @@
 
  ### **Group Organization Repo Links:**
 - [Repo Link](https://github.com/smallproject401secoundweek/supportCenter)
-- [PR-Link](https://github.com/smallproject401secoundweek/supportCenter/pulls/)
+- [PR-Link](https://github.com/smallproject401secoundweek/supportCenter/pull/1)
 
 ### **Event Driven Applications**
 
